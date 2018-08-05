@@ -16,4 +16,4 @@ python main.py --debug
 
 ## Note
 
-Using a pyramidal filter throws me some errors recently. Feel free to fix a few commentet lines and send me a pull request on GitHub.
+Using a pyramidal filter throws me some errors recently. Feel free to fix a few commented lines and send me a pull request on GitHub.
